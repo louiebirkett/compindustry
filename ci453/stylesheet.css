@@ -62,10 +62,29 @@ main {
     align-items: flex-start;
     padding: 20px;
 }
-section {
-    flex: 1;
+section #overview {
+    display: block;
     padding: 10px;
     margin: 10px; 
+}
+#overview h2{
+    text-align: center;
+    padding: 20px;
+    border-bottom: solid 3px #0b3954;
+}
+#tips{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+#tips li{
+    text-align: left;
+    padding: 5px;
+}
+#sources{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
 }
 
 #topicButtonContainer{
