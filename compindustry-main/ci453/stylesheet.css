@@ -97,6 +97,18 @@ section #overview {
   color: rgb(255, 175, 175);
   text-align: left;
   padding: 5px;
+  
+}
+
+#individualCybersec{
+  text-align: center;
+  padding: 10px;
+}
+#individualCybersec h3{
+  padding: 15px;
+}
+.link{
+  color: rgb(118, 118, 242);
 }
 #sources {
   margin: auto;
@@ -169,6 +181,10 @@ section #overview {
   padding: 15px;
   text-align: center;
 }
+.infosec-text li{
+  list-style-type: none;
+}
+
 
 .externalweb-container{
   width: 100%;
@@ -179,6 +195,13 @@ section #overview {
   text-align: center;  
 }
 
-ol {
-
+.gameContainer{
+  margin: auto;
 }
+.gameContainer img{
+  border-bottom: 0.5px solid white;
+  width: 13rem;
+  margin: auto;
+}
+
+
