@@ -203,5 +203,26 @@ section #overview {
   width: 13rem;
   margin: auto;
 }
+.emailList{
+  list-style-type: none;
+  text-align: center;
+}
+footer {
+  padding: 20px 0;
+  border-top: 0.5px solid white;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.footer-left {
+  text-align: left;
+}
+
 
 
